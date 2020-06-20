@@ -1,4 +1,5 @@
 # TerableReminder
+Requires https://github.com/SerenTera/tera-notifier
 
 ## Commands:
 ### `rem add seconds msg`
