@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": true,
+    "name": "TerableReminder",
+    "author": "TerableCoder",
+    "description": "Timed reminders",
+    "version": "1.0.0",
+    "options": {
+        "niceName":"TerableReminder"
+    },
+    "servers": [""],
+	"dependencies": {
+        "notifier":"https://raw.githubusercontent.com/SerenTera/tera-notifier/master/module.json"
+    }
+}
